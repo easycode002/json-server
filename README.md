@@ -5,4 +5,4 @@
 ## Two method JSON-Server
 #### Global install
 `npm install -g json-server`
-    - This command installs the json-server package globally on your system. can be used from any directory in your terminal or command prompt.
+- This command installs the json-server package globally on your system. can be used from any directory in your terminal or command prompt.
