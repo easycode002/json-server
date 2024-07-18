@@ -6,3 +6,13 @@
 #### Global install
 `npm install -g json-server`
 - This command installs the json-server package globally on your system. can be used from any directory in your terminal or command prompt.
+```
+npm install -g json-server
+```
+
+#### Locally install
+`npm install json-server`
+- This command installs the json-server package locally in the current project directory. The package will be placed in the `node_modules` directory of your project.
+```
+npm install json-server
+```
