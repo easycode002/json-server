@@ -48,3 +48,4 @@ It will be show like this
   "views": 100
 }
 ```
+![json vs obj](https://github.com/user-attachments/assets/71753308-a704-45db-90d5-6df2755ef9bb)
