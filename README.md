@@ -53,7 +53,3 @@ It will be show like this
 <div align="center">
   <h1>The End - JSON Server</h1>
 </div>
-## Contact
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/your-username/your-repo-name](https://github.com/your-username/your-repo-name)
