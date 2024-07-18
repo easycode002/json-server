@@ -53,8 +53,8 @@ It will be show like this
 <div align="center">
   <h1>The End - JSON Server</h1>
 </div>
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contributing](#contributing)
+  - [License](#license)
+  - [Contact](#contact)
